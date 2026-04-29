@@ -12,6 +12,6 @@ This repository contains research materials for the project "Using Generative AI
 
 ## Collaboration Notes
 - Use clear file names
+- Do not upload sensitive participant data to public repositories
 - Write meaningful commit messages
 - Update files regularly
-- Do not upload sensitive participant data to public repositories
